@@ -178,7 +178,7 @@ I'd love to collaborate, discuss web development, or just chat about cool projec
 | **GitHub** | [github.com/preetham](https://github.com/preetham) |
 | **LinkedIn** | [linkedin.com/in/preetham](https://linkedin.com/in/preetham) |
 | **Twitter** | [@preetham](https://twitter.com/preetham) |
-| **Email** | preetham@example.com |
+| **Email** | kotojupreetham@gmail.com |
 | **Portfolio** | [preetham.dev](https://preetham.dev) |
 
 </div>
