@@ -80,6 +80,10 @@ Badges:
   Tech: React · Vite · TypeScript · GSAP  
   https://github.com/kotojupreetham/profile
 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotojupreetham&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </p>
+
 ---
 
 ## 🌱 Currently Building
@@ -90,19 +94,20 @@ Badges:
 
 ---
 
-## 📈 GitHub Stats
+<!--  ## 📈 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kotojupreetham&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kotojupreetham&theme=tokyonight&hide_border=true" alt="Streak" />
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotojupreetham&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+-->
 
 ---
 
