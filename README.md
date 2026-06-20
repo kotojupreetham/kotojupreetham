@@ -8,12 +8,12 @@
 
 Building polished UIs, cross-platform apps, and privacy-first AI tools.
 
-<p>
+<!-- <p>
   <a href="https://github.com/kotojupreetham">
     <img src="https://img.shields.io/github/followers/kotojupreetham?label=Followers&style=for-the-badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kotojupreetham&style=for-the-badge" />
-</p>
+</p> -->
 
 [Portfolio](https://kotojupreetham.github.io/profile/) •
 [LinkedIn](https://linkedin.com/in/kotojupreetham) •
